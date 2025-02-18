@@ -1,5 +1,5 @@
 # ----------------------------------------
-# TOPIC:
+# TOPIC: Getting Started with SQL
 # ----------------------------------------
 # p2-class-session-sql-class-practice-with-tm-mildred
 
